@@ -1,0 +1,5 @@
+edu\escuelaing\arep\realtimebuses\apigateway\ApiGatewayProxyResponse.class
+edu\escuelaing\arep\realtimebuses\apigateway\RequestContext.class
+edu\escuelaing\arep\realtimebuses\apigateway\ApiGatewayRequest.class
+edu\escuelaing\arep\realtimebuses\apigateway\Identity.class
+edu\escuelaing\arep\realtimebuses\DBServices.class
